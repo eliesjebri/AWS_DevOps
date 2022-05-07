@@ -50,7 +50,7 @@ ul
 
 <p class=MsoNormal align=center style='margin-bottom:0cm;text-align:center;
 line-height:normal'><b><span lang=EN-US style='font-size:18.0pt;font-family:
-"Times New Roman",serif'>AWS Certified DevOps Engineer Professional</span></b></p>
+"Times New Roman",serif'>AWS Certified DevOps Engineer Professional (DOP-C01)</span></b></p>
 
 <p class=MsoNormal style='line-height:normal'><b><span lang=EN-US
 style='font-size:12.0pt;font-family:"Times New Roman",serif'>Reference Links
