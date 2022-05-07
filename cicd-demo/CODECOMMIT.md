@@ -7,7 +7,7 @@ git config -l
 # On Codecommit create README.md file / create new "master" branch and set it as default / Delete "main" branch
 
 # Configure your git client
-git config --global user.email elies.jebri@gmail.com\
+git config --global user.email ej@gmail.com\
 git config --global user.name "elies"
 
 
