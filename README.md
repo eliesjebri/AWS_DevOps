@@ -36,7 +36,8 @@ font-family:"Times New Roman",serif'>CodeCommit</span></b></p>
      target="_blank">https://www.atlassian.com/git/tutorials/using-branches</a></span></li>
  <li class=MsoNormal style='line-height:normal'><span style='font-size:12.0pt;
      font-family:"Times New Roman",serif'><a
-     href="https://docs.aws.amazon.com/fr_fr/codecommit/latest/userguide/how-to-conditional-branch.html"</a></span></li>
+     href="https://docs.aws.amazon.com/fr_fr/codecommit/latest/userguide/how-to-conditional-branch.html"
+     target="_blank">https://docs.aws.amazon.com/fr_fr/codecommit/latest/userguide/how-to-conditional-branch.html</a></span></li>
  <li class=MsoNormal style='line-height:normal'><span style='font-size:12.0pt;
      font-family:"Times New Roman",serif'><a
      href="https://docs.aws.amazon.com/codecommit/latest/userguide/auth-and-access-control-iam-identity-based-access-control.html"
